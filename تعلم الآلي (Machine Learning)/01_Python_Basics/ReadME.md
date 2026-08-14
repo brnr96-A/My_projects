@@ -13,12 +13,12 @@
 
 ## 📂 دليل الملفات السريع
 
-*   **`01_variables.py`**: شرح طريقة حجز الذاكرة وتخزين النصوص والأرقام والقيم المنطقية ومعرفة أنواعها عبر `type()`.
-*   **`02_conditionals.py`**: استخدام الجمل الشرطية `if`, `elif`, `else` لتوجيه تدفق البرامج واتخاذ القرارات الذكية.
+*   **`01_variables.ipynb`**: شرح طريقة حجز الذاكرة وتخزين النصوص والأرقام والقيم المنطقية ومعرفة أنواعها عبر `type()`.
+*   **`02_conditionals.ipynb`**: استخدام الجمل الشرطية `if`, `elif`, `else` لتوجيه تدفق البرامج واتخاذ القرارات الذكية.
 *   **`03_loops.py`**: تطبيق حلقات التكرار الفعالة `for` للمرور على المصفوفات، وحلقات `while` للعد المشروط.
-*   **`04_functions.py`**: بناء الدوال البرمجية المغلفة باستخدام `def` لتجنب تكرار الأكواد وتمرير المعاملات الافتراضية.
-*   **`05_data_structures.py`**: تنظيم البيانات وتخزينها بكفاءة عالية عبر القوائم المرتبة `Lists` والقواميس السريعة `Dictionaries`.
-*   **`06_oop_basics.py`**: مدخل مبسط جداً للبرمجة كائنية التوجه (OOP) وكيفية بناء الفئات `Classes` لتجهيز قوالب النماذج.
+*   **`04_functions.ipynb`**: بناء الدوال البرمجية المغلفة باستخدام `def` لتجنب تكرار الأكواد وتمرير المعاملات الافتراضية.
+*   **`05_data_structures.ipynb`**: تنظيم البيانات وتخزينها بكفاءة عالية عبر القوائم المرتبة `Lists` والقواميس السريعة `Dictionaries`.
+*   **`06_oop_basics.ipynb`**: مدخل مبسط جداً للبرمجة كائنية التوجه (OOP) وكيفية بناء الفئات `Classes` لتجهيز قوالب النماذج.
 
 ---
 
@@ -27,10 +27,10 @@
 يمكنك تشغيل أي ملف مستقل ومراقبة مخرجاته المبسطة مباشرة عبر سطر الأوامر (Terminal) بالطريقة التالية:
 
 ```bash
-python 01_variables.py
-python 02_conditionals.py
-python 03_loops.py
-python 04_functions.py
-python 05_data_structures.py
-python 06_oop_basics.py
+python 01_variables.ipynb
+python 02_conditionals.ipynb
+python 03_loops.ipynb
+python 04_functions.ipynb
+python 05_data_structures.ipynb
+python 06_oop_basics.ipynb
 ```
