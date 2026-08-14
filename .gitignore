@@ -1,0 +1,24 @@
+.vscode/
+bin/
+obj/
+node_modules/
+magic_8ball_history.txt
+
+quiz_game.db
+
+# تجاهل مجلدات التحويل الخاصة بـ PyInstaller
+build/
+dist/
+*.spec
+
+# تجاهل ملفات البيئة المحلية
+venv/
+# تجاهل ملفات بايثون المؤقتة والنظام
+__pycache__/
+*.pyc
+.DS_Store
+
+# تجاهل مجلدات البيئة الافتراضية إذا تم إنشاؤها
+venv/
+.venv/
+env/
